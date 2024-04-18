@@ -17,7 +17,7 @@ The LinkedIn Connection Inviter is a Python script designed to automate the proc
 - Undetected Chromedriver
 - Selenium WebDriver
 - Python-dotenv
-- LinkedIn account
+- LinkedIn account with Premium subscription
 
 ## Installation
 
@@ -54,7 +54,7 @@ The LinkedIn Connection Inviter is a Python script designed to automate the proc
     python main.py
     ```
 
-2. The script will prompt you to enter the search keywords and other search criteria.
+2. The script will prompt you to enter the search keywords and other search criteria. You can also customize the search URL by copying the URL with desired filters applied and modifying the `search_url` variable in the script.
 
 3. Once configured, the script will automate the process of sending connection invitations.
 
