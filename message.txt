@@ -1,3 +1,2 @@
 Olá, [RECRUTADOR], tudo bem?
-Estou entrando em contato porque gostaria de uma oportunidade para me juntar ao seu time. Estou cursando Engenharia de Computação e já trabalhei com análise de dados, Python, Power BI, Microsoft Azure, PostgreSQL, etc.
-Desde já agradeço pela atenção e fico à disposição.
+SUA MENSAGEM AQUI
